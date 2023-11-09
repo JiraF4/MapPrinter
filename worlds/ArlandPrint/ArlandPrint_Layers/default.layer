@@ -1,0 +1,7 @@
+SCR_BaseGameMode GameMode_Base1 : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ coords 3034.152 17.576 2784.033
+}
+CameraBase ManualCameraBase1 : "{3170B077F4886DD5}ManualCameraBase1.et" {
+ coords 3133.543 83.23 1727.422
+ FOV 8
+}

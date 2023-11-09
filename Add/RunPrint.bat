@@ -1,0 +1,1 @@
+"F:\SteamLibrary\steamapps\common\Arma Reforger\ArmaReforgerSteam.exe" -world worlds/EdenPrint/EdenPrint.ent -window -posX 1281 -posY 1 -screenWidth 768 -screenHeight 768 -profile F:\MapPrinter -forceupdate -nofocus -addonsDir "C:\Users\zazul\Documents\My Games\ArmaReforgerWorkbench\addons" -addons MapPrinter

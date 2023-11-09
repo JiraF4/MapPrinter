@@ -1,0 +1,8 @@
+GameProject {
+ ID "MapPrinter"
+ GUID "5ECAC5B6CFF77301"
+ TITLE "MapPrinter"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

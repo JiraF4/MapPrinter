@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReforgerMapPrinter", "ReforgerMapPrinter\ReforgerMapPrinter.csproj", "{873E6C58-C318-442A-B06A-D6FBD7C3D375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873E6C58-C318-442A-B06A-D6FBD7C3D375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873E6C58-C318-442A-B06A-D6FBD7C3D375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873E6C58-C318-442A-B06A-D6FBD7C3D375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873E6C58-C318-442A-B06A-D6FBD7C3D375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

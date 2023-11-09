@@ -1,0 +1,16 @@
+CameraBase {
+ ID "5ECB471BA4701392"
+ components {
+  Hierarchy "{5ECAC5B7071E4CA0}" {
+  }
+  PS_PrinterCamera "{5ECAC9D5704CF036}" {
+  }
+ }
+ coords 0 50 220
+ angleX -90
+ FOV 2
+ nearPlane 0.1
+ farPlane 1000
+ projectionType Orthographic
+ cameraFlags 0
+}

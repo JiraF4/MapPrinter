@@ -1,0 +1,22 @@
+SCR_BaseGameMode GameMode_Base1 : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ components {
+  SCR_RespawnSystemComponent "{56B2B4793051E7C9}" {
+   Enabled 0
+   m_bEnableRespawn 0
+  }
+ }
+ coords 1067.449 42.084 11545.975
+}
+CameraBase ManualCameraPrinter1 {
+ components {
+  Hierarchy "{5ECB2D01A32B4ED7}" {
+  }
+  PS_PrinterCamera "{5ECB2D01A32B4E20}" {
+  }
+ }
+ coords 1457.597 89.145 5783
+ angleX -90
+ FOV 8
+ farPlane 1200
+ projectionType Orthographic
+}

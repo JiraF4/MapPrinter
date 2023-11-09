@@ -1,0 +1,101 @@
+SCR_BaseGameMode GameMode_Base1 : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ coords 11.11 1 13.39
+}
+CameraBase ManualCameraBase1 {
+ components {
+  Hierarchy "{5ECAC5B7071E4CA0}" {
+  }
+  PS_PrinterCamera "{5ECAC9D5704CF036}" {
+  }
+ }
+ coords 10.71 60 231.672
+ angleX -90
+ FOV 2
+ nearPlane 0.1
+ farPlane 1000
+ projectionType Orthographic
+ cameraFlags 0
+}
+SCR_DestructibleEntity : "{08FB064C1691FD06}Prefabs/Structures/Infrastructure/Waterworks/HydrantStreet_01/HydrantStreet_01_base.et" {
+ coords 6.641 1 8.25
+}
+GenericEntity : "{38C361609EADEE99}PrefabLibrary/Props/Civilian/Recreation/AshtrayStreet_01.et" {
+ coords 15.021 1 1.364
+}
+SCR_DestructibleEntity : "{82B1323A72934C8F}PrefabLibrary/Props/Decoration/FlowerpotStreet_01_rect_short/FlowerpotStreet_01_rect_short_begonia_white.et" {
+ coords 65.819 1 4.358
+}
+Tree : "{B0382E039EBE672F}Prefabs/Vegetation/Tree/t_pinus_sylvestris_3f.et" {
+ coords 10.96 0 230.53
+ angleX -0.782
+ angleY -108.471
+ angleZ 0.674
+ scale 1.018
+ Flags 3
+}
+$grp SCR_DestructibleEntity : "{B71E3749C87F3473}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_octa_Tagetes_orange.et" {
+ {
+  coords 10.098 1 229.469
+ }
+ {
+  coords 10 1 230.845
+ }
+ {
+  coords 11.635 1 229.99
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    LODFactors {
+     0.1 0.1 0.1 0.1 0.1 0.1 0 0 0 0 0.75
+    }
+    PixelSizeScale 1.089
+    ObjectHeightmapBias 0
+    ClutterOccluderClipPlane -2.056
+   }
+  }
+  coords 11.537 1 231.366
+ }
+ {
+  coords 9.975 1 232.648
+ }
+ {
+  coords 9.877 1 234.024
+ }
+ {
+  coords 8.395 1 230.421
+ }
+ {
+  coords 8.297 1 231.797
+ }
+ {
+  coords 11.793 1 233.302
+ }
+ {
+  coords 11.695 1 234.678
+ }
+ {
+  coords 13.691 1 231.054
+ }
+ {
+  coords 13.593 1 232.43
+ }
+ {
+  coords 13.434 1 227.242
+ }
+ {
+  coords 13.336 1 228.618
+ }
+ {
+  coords 11.324 1 226.747
+ }
+ {
+  coords 11.226 1 228.123
+ }
+ {
+  coords 8.62 1 226.969
+ }
+ {
+  coords 8.522 1 228.345
+ }
+}
