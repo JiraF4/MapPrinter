@@ -1,5 +1,0 @@
-G:\.repo\ReforgerMapPrinter\ReforgerMapPrinter\bin\Debug\ReforgerMapPrinter.exe
-G:\.repo\ReforgerMapPrinter\ReforgerMapPrinter\bin\Debug\ReforgerMapPrinter.pdb
-G:\.repo\ReforgerMapPrinter\ReforgerMapPrinter\obj\Debug\ReforgerMapPrinter.csprojAssemblyReference.cache
-G:\.repo\ReforgerMapPrinter\ReforgerMapPrinter\obj\Debug\ReforgerMapPrinter.exe
-G:\.repo\ReforgerMapPrinter\ReforgerMapPrinter\obj\Debug\ReforgerMapPrinter.pdb
