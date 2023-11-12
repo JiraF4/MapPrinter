@@ -9,11 +9,6 @@ Just copy it to your add-ons folder and open it in your workbench.
 Create a subscene of your world with camera and gamemode.
 You can copy layer from Everon map.
 
-Yes repo is just almost empty reforger addon with some additions.
-Just slap it to addons folder and open in workbench.
-Create subscene of your world with camera an gamemode.
-You can copy layer from everon map.
-
 Set up rendering zone in:
 MapPrinter/scripts/game/PS_PrinterCamera.c
 
